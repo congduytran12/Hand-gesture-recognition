@@ -1,2 +1,2 @@
-model_checkpoint_path: "d:\\Hand-gesture-recognition\\trained_model\\gesture_recognition_model.tfl"
-all_model_checkpoint_paths: "d:\\Hand-gesture-recognition\\trained_model\\gesture_recognition_model.tfl"
+model_checkpoint_path: "d:\\Github\\Hand-gesture-recognition\\trained_model\\gesture_recognition_model.tfl"
+all_model_checkpoint_paths: "d:\\Github\\Hand-gesture-recognition\\trained_model\\gesture_recognition_model.tfl"
